@@ -1,0 +1,47 @@
+_repo: Ensimainen-rakkauteni_71101
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hannikainen, Siiri
+    birthdate: 1889
+    deathdate: 1968
+    gutenberg_agent_id: '56075'
+    url: http://www.gutenberg.org/2009/agents/56075
+    wikipedia: https://fi.wikipedia.org/wiki/Siiri_Hannikainen
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Turgenjeff, Iwan
+    - Turgenev, I. S.
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
+description: Translation of Первая любовь (Pervaya lyubov).
+gutenberg_issued: '2023-07-03'
+identifiers:
+  gutenberg: '71101'
+language: fi
+pgterms:marc905: 20230515045439turgenev
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bWSOY, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First loves -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcsh 'Russia -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Ensimäinen rakkauteni
+url: http://www.gutenberg.org/ebooks/71101
